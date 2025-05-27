@@ -83,8 +83,9 @@ $$
 
 ### Rotation Matrix
 SVD of the cross-covariance matrix gives the $U$, $S$, $V$.
+
 $$
-Rotation Matrix = U \times V
+RotationMatrix = U \times V
 $$
 
 $S$ will be utilized below in the scale calculation.
