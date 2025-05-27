@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "procrustes-alignment"
+version = "0.1.0"
+description = ""
+authors = ["Melih DARCAN <57872471+MelihDarcanxyz@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^2.2.6"
+scipy = "^1.15.3"
+matplotlib = "^3.10.3"
+ipympl = "^0.9.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
